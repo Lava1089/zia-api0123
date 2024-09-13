@@ -27,5 +27,6 @@
     },
     "devDependencies": {
         "nodemon": "^2.0.15"
+        "expo-cli": "0.18.25"
     }
 }
